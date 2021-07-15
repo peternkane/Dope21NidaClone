@@ -418,3 +418,853 @@ C:\Users\FrinnoLAB\Documents\PROJECTS\ELLIPSIS\DOP@E\Week8\WEEK8SESS\WEEK8APP\bi
 C:\Users\FrinnoLAB\Documents\PROJECTS\ELLIPSIS\DOP@E\Week8\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
 C:\Users\FrinnoLAB\Documents\PROJECTS\ELLIPSIS\DOP@E\Week8\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\FrinnoLAB\Documents\PROJECTS\ELLIPSIS\DOP@E\Week8\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\Razor\Views\Home\SendMessage.cshtml.g.cs
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\appsettings.json
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\WEEK8APP.exe
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\WEEK8APP.deps.json
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\WEEK8APP.runtimeconfig.json
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\WEEK8APP.runtimeconfig.dev.json
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\WEEK8APP.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\WEEK8APP.pdb
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\WEEK8APP.Views.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\WEEK8APP.Views.pdb
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\MySql.EntityFrameworkCore.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.AssemblyInfoInputs.cache
+D:\projects 2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.AssemblyInfo.cs
+D:\projects 2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.csproj.CoreCompileInputs.cache
+D:\projects 2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.MvcApplicationPartsAssemblyInfo.cs
+D:\projects 2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.MvcApplicationPartsAssemblyInfo.cache
+D:\projects 2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.RazorAssemblyInfo.cache
+D:\projects 2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.RazorAssemblyInfo.cs
+D:\projects 2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\staticwebassets\WEEK8APP.StaticWebAssets.Manifest.cache
+D:\projects 2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\staticwebassets\WEEK8APP.StaticWebAssets.xml
+D:\projects 2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\scopedcss\bundle\WEEK8APP.styles.css
+D:\projects 2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.TagHelpers.input.cache
+D:\projects 2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.TagHelpers.output.cache
+D:\projects 2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.RazorCoreGenerate.cache
+D:\projects 2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\projects 2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\projects 2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\Razor\Views\Home\RegisterUser.cshtml.g.cs
+D:\projects 2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\Razor\Views\Home\SendMessage.cshtml.g.cs
+D:\projects 2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\projects 2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CustomLayout.cshtml.g.cs
+D:\projects 2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\projects 2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\projects 2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\projects 2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\projects 2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.RazorTargetAssemblyInfo.cache
+D:\projects 2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.RazorTargetAssemblyInfo.cs
+D:\projects 2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.Views.pdb
+D:\projects 2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.csproj.CopyComplete
+D:\projects 2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.pdb
+D:\projects 2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.genruntimeconfig.cache
+D:\projects 2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.csproj.AssemblyReference.cache
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\DevExpress.Data.v21.1.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\projects 2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\Razor\Views\Home\UpdateUserr.cshtml.g.cs
+D:\projects 2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\Razor\Views\Home\UserDetails.cshtml.g.cs
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\appsettings.json
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\WEEK8APP.exe
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\WEEK8APP.deps.json
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\WEEK8APP.runtimeconfig.json
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\WEEK8APP.runtimeconfig.dev.json
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\WEEK8APP.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\WEEK8APP.pdb
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\WEEK8APP.Views.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\WEEK8APP.Views.pdb
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\DevExpress.Data.v21.1.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\bin\Debug\netcoreapp3.1\MySql.EntityFrameworkCore.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.csproj.AssemblyReference.cache
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.AssemblyInfoInputs.cache
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.AssemblyInfo.cs
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.csproj.CoreCompileInputs.cache
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.MvcApplicationPartsAssemblyInfo.cs
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.MvcApplicationPartsAssemblyInfo.cache
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.RazorAssemblyInfo.cache
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.RazorAssemblyInfo.cs
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\staticwebassets\WEEK8APP.StaticWebAssets.Manifest.cache
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\staticwebassets\WEEK8APP.StaticWebAssets.xml
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\scopedcss\bundle\WEEK8APP.styles.css
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.TagHelpers.input.cache
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.TagHelpers.output.cache
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.RazorCoreGenerate.cache
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\Razor\Views\Home\RegisterUser.cshtml.g.cs
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\Razor\Views\Home\SendMessage.cshtml.g.cs
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\Razor\Views\Home\UpdateUserr.cshtml.g.cs
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\Razor\Views\Home\UserDetails.cshtml.g.cs
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CustomLayout.cshtml.g.cs
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.RazorTargetAssemblyInfo.cache
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.RazorTargetAssemblyInfo.cs
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.Views.pdb
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.csproj.CopyComplete
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.dll
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.pdb
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.genruntimeconfig.cache

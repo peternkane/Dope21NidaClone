@@ -14,7 +14,7 @@ namespace WEEK8APP.DAO
 
         User GetCurrentUser(long id);
 
-        User UpdateUser(User user);
-
+       /* User UpdateUser(User user);*/
+        User UpdateUser(long id);
     }
 }

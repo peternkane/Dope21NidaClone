@@ -23,7 +23,7 @@ namespace WEEK8APP.DAO.Implement
             {
                 FullName = user.FullName,
                 Email = user.Email,
-                mobile = user.mobile,
+                Mobile = user.Mobile,
                 NidaNumber = user.NidaNumber,
             };
 
@@ -53,19 +53,39 @@ namespace WEEK8APP.DAO.Implement
             }
         }
 
-        
-
-        public User UpdateUser(User user)
+        public User UpdateUser(long id)
         {
-            var userUpdate = DB.Users.Find(user.Id);
+            var user = DB.Users.Find(id);
 
-            if (userUpdate!=null)
+            if (user != null)
             {
                 DB.Users.Update(user);
                 DB.SaveChanges();
-                return userUpdate;
+                return user;
             }
-            return null;
+            else
+            {
+                return null;
+            }
         }
+
+        /*public User UpdateUser(User user)
+        {
+            throw new NotImplementedException();
+        }*/
+
+        /* public User UpdateUser(User user)
+         {
+
+             var userUpdate = DB.Users.Find(user.Id);
+
+             if (userUpdate!=null)
+             {
+                 DB.Users.Update(user);
+                 DB.SaveChanges();
+                 return userUpdate;
+             }
+             return null;
+         }*/
     }
 }

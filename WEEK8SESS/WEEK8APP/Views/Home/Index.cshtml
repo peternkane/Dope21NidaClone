@@ -43,8 +43,8 @@
                 @Html.ActionLink("Get Number", "SetNidaNumber", "Home", new { @class = "btn btn-outline-primary", id = item.Id })
             </td>
             <td>
-                @Html.ActionLink("Edit", "Edit", new {@class = "btn btn-outline-primary", id = item.Id }) |
-                @Html.ActionLink("Details", "Details", new { @class = "btn btn-outline-primary", id=item.Id  }) |
+                @Html.ActionLink("Edit", "UpdateUserr", "Home", new {@class = "btn btn-outline-primary", id = item.Id }) |
+                @Html.ActionLink("Details", "UserDetails", new { @class = "btn btn-outline-primary", id=item.Id  }) |
                 @Html.ActionLink("Delete", "Delete", new { @class = "btn btn-outline-primary", id = item.Id })
             </td>
         </tr>

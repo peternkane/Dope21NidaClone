@@ -21,7 +21,12 @@ namespace WEEK8APP.DATABASE
             // Use Fluent API to configure  
 
             // Map entities to tables  
-            modelBuilder.Entity<User>().ToTable("Users");
+            modelBuilder.Entity<User>().ToTable("person_details");
+        }
+
+        internal object GetCurrentUser(long v, object id)
+        {
+            throw new NotImplementedException();
         }
     }
 }

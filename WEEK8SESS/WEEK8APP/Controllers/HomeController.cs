@@ -65,7 +65,7 @@ namespace WEEK8APP.Controllers
 
             user.NidaNumber = generator.Generate();
             a = 1;
-            userRepo.UpdateUser(user);
+            userRepo.UpdateUser(id);
 
             
 
@@ -73,8 +73,41 @@ namespace WEEK8APP.Controllers
             return RedirectToAction("Index", "Home");
         }
 
+        [HttpPost]
+        public IActionResult UpdateUser(long id)
+        {
+            if (ModelState.IsValid)
+            {
+                var user = userRepo.UpdateUser(id);
+                
 
-            private string MessageTempelate(string fullName, string nidaCloneNo)
+                return RedirectToAction("Index", "Home", new { message = "{0}", user });
+            }
+            else
+            {
+                return RedirectToAction("Index", "Home", new { message = "Couldnot update User!." });
+            }
+        }
+
+        [HttpGet]
+        public IActionResult UpdateUserr(long id)
+        {
+            var user = userRepo.GetCurrentUser(id);
+
+            return View(user);
+        }
+
+
+        [HttpGet]
+        public IActionResult UserDetails(long id)
+        {
+            var user = userRepo.GetCurrentUser(id);
+
+            return View(user);
+        }
+
+
+        private string MessageTempelate(string fullName, string nidaCloneNo)
         {
             var messageBody = string.Format("Hello Mr. {0}, your NidaClone Identification number {1}, NB: Dont use it in real-life."
                 , fullName, nidaCloneNo);

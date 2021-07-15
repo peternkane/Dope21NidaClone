@@ -26,7 +26,7 @@ namespace WEEK8APP.DTO
 
         //public string ConfirmPassword { get; set; }
 
-        public string mobile { get; set; }
+        public string Mobile { get; set; }
 
 
 

@@ -29,12 +29,15 @@ namespace WEEK8APP
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            //services.AddDbContext<Perisistance>(options => options.MySql(Configuration.GetConnectionString("DefaultConnection")));
+            //services.AddDbContextPool<Persistance>(options => 
+            //options.UseMySql(
+                //Configuration.GetConnectionString("DefaultConnection")));
             string mySqlConnectionStr = Configuration.GetConnectionString("DefaultConnection");
-            services.AddDbContextPool<Persistance>(options => options.UseMySql(mySqlConnectionStr));
+           services.AddDbContextPool<Persistance>(options => options.UseMySql(mySqlConnectionStr));
             services.AddScoped<IUSER, UserRepository>();
             services.AddScoped<INidaGenerator, NidaGeneratorRepo>();
             services.AddControllersWithViews();
+            services.AddMvc();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

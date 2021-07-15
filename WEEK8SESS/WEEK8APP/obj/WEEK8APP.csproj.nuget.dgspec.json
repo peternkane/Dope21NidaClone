@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FrinnoLAB\\Documents\\PROJECTS\\ELLIPSIS\\DOP@E\\Week8\\WEEK8SESS\\WEEK8APP\\WEEK8APP.csproj": {}
+    "D:\\NIDAAPP2021\\WEEK8SESS\\WEEK8APP\\WEEK8APP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FrinnoLAB\\Documents\\PROJECTS\\ELLIPSIS\\DOP@E\\Week8\\WEEK8SESS\\WEEK8APP\\WEEK8APP.csproj": {
+    "D:\\NIDAAPP2021\\WEEK8SESS\\WEEK8APP\\WEEK8APP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FrinnoLAB\\Documents\\PROJECTS\\ELLIPSIS\\DOP@E\\Week8\\WEEK8SESS\\WEEK8APP\\WEEK8APP.csproj",
+        "projectUniqueName": "D:\\NIDAAPP2021\\WEEK8SESS\\WEEK8APP\\WEEK8APP.csproj",
         "projectName": "WEEK8APP",
-        "projectPath": "C:\\Users\\FrinnoLAB\\Documents\\PROJECTS\\ELLIPSIS\\DOP@E\\Week8\\WEEK8SESS\\WEEK8APP\\WEEK8APP.csproj",
-        "packagesPath": "C:\\Users\\FrinnoLAB\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FrinnoLAB\\Documents\\PROJECTS\\ELLIPSIS\\DOP@E\\Week8\\WEEK8SESS\\WEEK8APP\\obj\\",
+        "projectPath": "D:\\NIDAAPP2021\\WEEK8SESS\\WEEK8APP\\WEEK8APP.csproj",
+        "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
+        "outputPath": "D:\\NIDAAPP2021\\WEEK8SESS\\WEEK8APP\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\FrinnoLAB\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -40,6 +44,10 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "DevExpress.Data": {
+              "target": "Package",
+              "version": "[21.1.4, )"
+            },
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
               "version": "[3.1.13, )"
@@ -49,6 +57,12 @@
               "version": "[3.1.8, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
@@ -89,7 +103,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
