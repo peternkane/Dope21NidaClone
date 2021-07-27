@@ -1268,3 +1268,4 @@ D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.csproj.CopyCo
 D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.dll
 D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.pdb
 D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\WEEK8APP.genruntimeconfig.cache
+D:\NIDAAPP2021\WEEK8SESS\WEEK8APP\obj\Debug\netcoreapp3.1\Razor\Views\Home\DeleteUserr.cshtml.g.cs

@@ -14407,6 +14407,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\NIDAAPP2021\\WEEK8SESS\\WEEK8APP\\Views\\Home\\DeleteUserr.cshtml",
+      "TargetPath": "Views\\Home\\DeleteUserr.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\NIDAAPP2021\\WEEK8SESS\\WEEK8APP\\Views\\Home\\SendMessage.cshtml",
       "TargetPath": "Views\\Home\\SendMessage.cshtml",
       "FileKind": "mvc"

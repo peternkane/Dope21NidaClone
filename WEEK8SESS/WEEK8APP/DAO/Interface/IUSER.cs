@@ -16,5 +16,7 @@ namespace WEEK8APP.DAO
 
        /* User UpdateUser(User user);*/
         User UpdateUser(long id);
+        User DeleteUser(long id);
+
     }
 }

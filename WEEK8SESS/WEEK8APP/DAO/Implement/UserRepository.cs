@@ -69,6 +69,22 @@ namespace WEEK8APP.DAO.Implement
             }
         }
 
+        public User DeleteUser(long id)
+        {
+            var user = DB.Users.Find(id);
+
+            if (user != null)
+            {
+                DB.Users.Remove(user);
+                DB.SaveChanges();
+                return user;
+            }
+            else
+            {
+                return null;
+            }
+        }
+
         /*public User UpdateUser(User user)
         {
             throw new NotImplementedException();

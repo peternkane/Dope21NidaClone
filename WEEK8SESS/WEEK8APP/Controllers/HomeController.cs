@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
@@ -74,8 +75,17 @@ namespace WEEK8APP.Controllers
         }
 
         [HttpPost]
-        public IActionResult UpdateUser(long id)
+        public IActionResult UpdateUser(IFormCollection Form, long id)
         {
+            var _user = userRepo.GetCurrentUser(id);
+            var Fullname = Form["FullName"];
+            var email = Form["Email"];
+            var mobile = Form["Mobile"];
+
+            _user.FullName = Fullname;
+            _user.Email = email;
+            _user.Mobile = mobile;
+
             if (ModelState.IsValid)
             {
                 var user = userRepo.UpdateUser(id);
@@ -89,6 +99,15 @@ namespace WEEK8APP.Controllers
             }
         }
 
+        [HttpPost]
+        public IActionResult DeleteUser(IFormCollection Form, long id)
+        {
+            var _user = userRepo.GetCurrentUser(id);
+
+            userRepo.DeleteUser(_user.Id);
+            return RedirectToAction("Index", "Home");
+        }
+
         [HttpGet]
         public IActionResult UpdateUserr(long id)
         {
@@ -100,6 +119,14 @@ namespace WEEK8APP.Controllers
 
         [HttpGet]
         public IActionResult UserDetails(long id)
+        {
+            var user = userRepo.GetCurrentUser(id);
+
+            return View(user);
+        }
+
+        [HttpGet]
+        public IActionResult DeleteUserr(long id)
         {
             var user = userRepo.GetCurrentUser(id);
 
